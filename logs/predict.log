@@ -1,0 +1,435 @@
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 6 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 7 for handwritten_digit.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 3 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 3 for handwritten_digit.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 5 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 5 for handwritten_digit.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 5 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 5 for handwritten_digit.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 7 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 7 for handwritten_digit.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 3 for 0_kKxxK1YXSyWMEBtS.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 7 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 7 for handwritten_digit.png
+INFO:root:Predicted 2 for images.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 3 for 0_kKxxK1YXSyWMEBtS.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 7 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 7 for handwritten_digit.png
+INFO:root:Predicted 2 for images.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 3 for 0_kKxxK1YXSyWMEBtS.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 5 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 5 for handwritten_digit.png
+INFO:root:Predicted 2 for images.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 3 for 0_kKxxK1YXSyWMEBtS.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 5 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 5 for handwritten_digit.png
+INFO:root:Predicted 2 for images.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 3 for 0_kKxxK1YXSyWMEBtS.png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 5 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 7 for handwritten_digit.png
+INFO:root:Predicted 5 for images.png
+INFO:root:Predicted 4 for numbers (1).png
+INFO:root:Predicted 7 for numbers (11).png
+INFO:root:Predicted 6 for numbers (12).png
+INFO:root:Predicted 1 for numbers (13).png
+INFO:root:Predicted 2 for numbers (14).png
+INFO:root:Predicted 7 for numbers (15).png
+INFO:root:Predicted 6 for numbers (16).png
+INFO:root:Predicted 5 for numbers (17).png
+INFO:root:Predicted 1 for numbers (18).png
+INFO:root:Predicted 8 for numbers (19).png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 9 for 0 (2).png
+INFO:root:Predicted 5 for 0.png
+INFO:root:Predicted 3 for 0_kKxxK1YXSyWMEBtS.png
+INFO:root:Predicted 2 for 1 (2).png
+INFO:root:Predicted 5 for 1.png
+INFO:root:Predicted 5 for 10.png
+INFO:root:Predicted 5 for 101.png
+INFO:root:Predicted 5 for 102.png
+INFO:root:Predicted 5 for 103.png
+INFO:root:Predicted 5 for 104.png
+INFO:root:Predicted 5 for 105.png
+INFO:root:Predicted 5 for 108.png
+INFO:root:Predicted 5 for 109.png
+INFO:root:Predicted 5 for 11.png
+INFO:root:Predicted 5 for 110.png
+INFO:root:Predicted 5 for 111.png
+INFO:root:Predicted 5 for 112.png
+INFO:root:Predicted 5 for 115.png
+INFO:root:Predicted 5 for 116.png
+INFO:root:Predicted 5 for 117.png
+INFO:root:Predicted 5 for 118.png
+INFO:root:Predicted 5 for 119.png
+INFO:root:Predicted 5 for 12.png
+INFO:root:Predicted 5 for 122.png
+INFO:root:Predicted 5 for 123.png
+INFO:root:Predicted 5 for 124.png
+INFO:root:Predicted 5 for 125.png
+INFO:root:Predicted 5 for 126.png
+INFO:root:Predicted 3 for 1_v6Nn_zj8W0qsnk9Cc6Di_g.png
+INFO:root:Predicted 1 for 2.png
+INFO:root:Predicted 3 for 3.png
+INFO:root:Predicted 6 for 4.png
+INFO:root:Predicted 7 for 5.png
+INFO:root:Predicted 6 for 6.png
+INFO:root:Predicted 7 for 7.png
+INFO:root:Predicted 4 for 8.png
+INFO:root:Predicted 3 for 9.png
+INFO:root:Predicted 3 for handwritten_digit.png
+INFO:root:Predicted 2 for images.png
+INFO:root:Predicted 3 for WhatsApp Image 2025-02-05 at 10.42.08 AM.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 7 for 0 (2).png
+INFO:root:Predicted 2 for 1 (2).png
+INFO:root:Predicted 1 for 2.png
+INFO:root:Predicted 3 for 3 (2).png
+INFO:root:Predicted 5 for 3.png
+INFO:root:Predicted 6 for 4.png
+INFO:root:Predicted 7 for 5.png
+INFO:root:Predicted 7 for 6 (2).png
+INFO:root:Predicted 6 for 6.png
+INFO:root:Predicted 5 for 7 (2).png
+INFO:root:Predicted 7 for 7.png
+INFO:root:Predicted 6 for 8 (2).png
+INFO:root:Predicted 4 for 8.png
+INFO:root:Predicted 3 for 9.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 7 for 0 (2).png
+INFO:root:Predicted 2 for 1 (2).png
+INFO:root:Predicted 1 for 2.png
+INFO:root:Predicted 3 for 3 (2).png
+INFO:root:Predicted 5 for 3.png
+INFO:root:Predicted 6 for 4.png
+INFO:root:Predicted 7 for 5.png
+INFO:root:Predicted 3 for 6 (2).png
+INFO:root:Predicted 6 for 6.png
+INFO:root:Predicted 2 for 7 (2).png
+INFO:root:Predicted 7 for 7.png
+INFO:root:Predicted 2 for 8 (2).png
+INFO:root:Predicted 7 for 8.png
+INFO:root:Predicted 3 for 9.png
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:root:Predicted 2 for 0 (2).png
+INFO:root:Predicted 2 for 1 (2).png
+INFO:root:Predicted 1 for 2.png
+INFO:root:Predicted 3 for 3 (2).png
+INFO:root:Predicted 5 for 3.png
+INFO:root:Predicted 4 for 4.png
+INFO:root:Predicted 7 for 5.png
+INFO:root:Predicted 7 for 6 (2).png
+INFO:root:Predicted 2 for 6.png
+INFO:root:Predicted 5 for 7 (2).png
+INFO:root:Predicted 7 for 7.png
+INFO:root:Predicted 7 for 8 (2).png
+INFO:root:Predicted 4 for 8.png
+INFO:root:Predicted 3 for 9.png
+2025-02-05 12:18:30,958 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-02-05 12:18:31,233 - 2025-02-05 12:18:31 - Predicted 7 for 0 (2).png
+2025-02-05 12:18:31,353 - 2025-02-05 12:18:31 - Predicted 2 for 1 (2).png
+2025-02-05 12:18:31,653 - 2025-02-05 12:18:31 - Predicted 1 for 2.png
+2025-02-05 12:18:31,867 - 2025-02-05 12:18:31 - Predicted 3 for 3 (2).png
+2025-02-05 12:18:32,067 - 2025-02-05 12:18:32 - Predicted 3 for 3.png
+2025-02-05 12:18:32,224 - 2025-02-05 12:18:32 - Predicted 6 for 4.png
+2025-02-05 12:18:32,378 - 2025-02-05 12:18:32 - Predicted 7 for 5.png
+2025-02-05 12:18:32,534 - 2025-02-05 12:18:32 - Predicted 2 for 6 (2).png
+2025-02-05 12:18:32,700 - 2025-02-05 12:18:32 - Predicted 6 for 6.png
+2025-02-05 12:18:32,911 - 2025-02-05 12:18:32 - Predicted 2 for 7 (2).png
+2025-02-05 12:18:33,104 - 2025-02-05 12:18:33 - Predicted 7 for 7.png
+2025-02-05 12:18:33,243 - 2025-02-05 12:18:33 - Predicted 2 for 8 (2).png
+2025-02-05 12:18:33,379 - 2025-02-05 12:18:33 - Predicted 4 for 8.png
+2025-02-05 12:18:33,530 - 2025-02-05 12:18:33 - Predicted 3 for 9.png
+2025-02-05 13:53:47,003 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-02-05 13:53:47,137 - 2025-02-05 13:53:47 - Predicted 2 for 0 (2).png
+2025-02-05 13:53:47,219 - 2025-02-05 13:53:47 - Predicted 2 for 1 (2).png
+2025-02-05 13:53:47,273 - 2025-02-05 13:53:47 - Predicted 1 for 2.png
+2025-02-05 13:53:47,342 - 2025-02-05 13:53:47 - Predicted 3 for 3 (2).png
+2025-02-05 13:53:47,397 - 2025-02-05 13:53:47 - Predicted 5 for 3.png
+2025-02-05 13:53:47,457 - 2025-02-05 13:53:47 - Predicted 6 for 4.png
+2025-02-05 13:53:47,514 - 2025-02-05 13:53:47 - Predicted 7 for 5.png
+2025-02-05 13:53:47,569 - 2025-02-05 13:53:47 - Predicted 5 for 6 (2).png
+2025-02-05 13:53:47,623 - 2025-02-05 13:53:47 - Predicted 6 for 6.png
+2025-02-05 13:53:47,692 - 2025-02-05 13:53:47 - Predicted 5 for 7 (2).png
+2025-02-05 13:53:47,746 - 2025-02-05 13:53:47 - Predicted 7 for 7.png
+2025-02-05 13:53:47,814 - 2025-02-05 13:53:47 - Predicted 5 for 8 (2).png
+2025-02-05 13:53:47,881 - 2025-02-05 13:53:47 - Predicted 4 for 8.png
+2025-02-05 13:53:47,968 - 2025-02-05 13:53:47 - Predicted 3 for 9.png
+2025-02-05 13:53:48,080 - 2025-02-05 13:53:48 - Predicted 5 for images.png
+2025-02-05 13:55:07,444 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-02-05 13:55:07,555 - 2025-02-05 13:55:07 - Predicted 8 for 0 (2).png
+2025-02-05 13:55:07,635 - 2025-02-05 13:55:07 - Predicted 5 for 0.png
+2025-02-05 13:55:07,700 - 2025-02-05 13:55:07 - Predicted 1 for 1 (2).png
+2025-02-05 13:55:07,764 - 2025-02-05 13:55:07 - Predicted 1 for 2.png
+2025-02-05 13:55:07,838 - 2025-02-05 13:55:07 - Predicted 3 for 3 (2).png
+2025-02-05 13:55:07,918 - 2025-02-05 13:55:07 - Predicted 5 for 3.png
+2025-02-05 13:55:07,985 - 2025-02-05 13:55:07 - Predicted 4 for 4.png
+2025-02-05 13:55:08,067 - 2025-02-05 13:55:08 - Predicted 1 for 5.png
+2025-02-05 13:55:08,147 - 2025-02-05 13:55:08 - Predicted 5 for 6 (2).png
+2025-02-05 13:55:08,225 - 2025-02-05 13:55:08 - Predicted 5 for 6 (3).png
+2025-02-05 13:55:08,302 - 2025-02-05 13:55:08 - Predicted 2 for 6.png
+2025-02-05 13:55:08,387 - 2025-02-05 13:55:08 - Predicted 3 for 7 (2).png
+2025-02-05 13:55:08,454 - 2025-02-05 13:55:08 - Predicted 7 for 7.png
+2025-02-05 13:55:08,522 - 2025-02-05 13:55:08 - Predicted 5 for 8 (2).png
+2025-02-05 13:55:08,593 - 2025-02-05 13:55:08 - Predicted 4 for 8.png
+2025-02-05 13:55:08,662 - 2025-02-05 13:55:08 - Predicted 3 for 9.png
